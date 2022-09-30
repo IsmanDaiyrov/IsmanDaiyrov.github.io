@@ -12,9 +12,13 @@
 ![p1 Isman Daiyrov](https://user-images.githubusercontent.com/65091188/193174919-4a812847-4aa1-4641-826b-eee969dc68e5.png)
 - Issues with the design:
 
-  - Not consistent with the numeration
-  - Doesn't support people with disabilities
+  - Not consistent with the numeration (missing 2 and 4)
   - Unclear buttons (not knowing which button to press)
+  
+- Good features of the design:
+  - Supports people with disabilities
+    - Braille writing system for people who are visually impaired
+  - Provides a visual and sound feedback 
 
 ## Getting B:
 - Common sequence of actions: *ideally*
@@ -22,7 +26,7 @@
   1. Enter the elevator
   2. Click on the button to go to the specific floor
   3. Elevator gives a visual feedback that the button was pressed
-  4. Elevator gives a feedback once it has arrived
+  4. Elevator gives some feedback once it has arrived
   5. Leave the elevator
 
 - How does the elevator support the user figure out how to make it work?
@@ -37,3 +41,4 @@
 
 - Sketch of a newer and better design:
 
+![p1 Isman Daiyrov](https://user-images.githubusercontent.com/65091188/193192602-a9b34df0-98bd-43fc-b9a0-c470eb0c28d3.png)
