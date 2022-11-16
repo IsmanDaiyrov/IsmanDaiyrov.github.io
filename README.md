@@ -9,7 +9,7 @@
 ## Getting C:
 - Sketch of the smart mirror design 
 
-![p2 Isman Daiyrov](https://user-images.githubusercontent.com/65091188/202083401-f40eba95-6511-4f83-ac05-ff5d36e45f16.png)
+![p2 Isman Daiyrov](https://user-images.githubusercontent.com/65091188/202084163-abcf4ade-8afd-4e37-a33e-164393cd2dc6.png)
 
 ### What this design includes:
 
