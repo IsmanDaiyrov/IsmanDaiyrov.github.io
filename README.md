@@ -10,6 +10,7 @@
 - Sketch of the smart mirror design 
 
 ![p2 Isman Daiyrov](https://user-images.githubusercontent.com/65091188/202084163-abcf4ade-8afd-4e37-a33e-164393cd2dc6.png)
+![Screen Shot 2022-10-10 at 12 46 08 AM](https://user-images.githubusercontent.com/65091188/202084391-c3a487ad-2cf5-4d9c-8b77-5a6b2186df59.png)
 
 ### What this design includes:
 
